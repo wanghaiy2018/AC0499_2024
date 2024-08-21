@@ -16,6 +16,8 @@ Now you can install packages to this evn:   pip install
 
 
 Install LLama3.1 locally on your computer
+
+
 Windows: 
 1.Head to Ollama’s download pageLinks to an external site. to download the Ollama installation file.  Please refer the download pageLinks to an external site. for OS specific install instructions.  You can confirm the Ollama server status by hitting the local URL http://localhost:11434/Links to an external site., 
 
@@ -56,21 +58,13 @@ print(response.json())
  
 
 Unix: 
-
 install ollama 
-
 module load ollama/0.1.38
-
 export OLLAMA_HOST='10.139.120.41:11434'
-
 ollama serve
-
 curl http://10.139.121.74:11434
 
- 
-
 At serve:  
-
 Request a jupyter session with a GPU.
 Open a terminal tab on jupyter lab.
 Load the ollama-0.1.38 module.
@@ -85,18 +79,15 @@ response = ollama.chat(model='llama3.1', messages=[ { 'role': 'user', 'content':
 
 
 
-
-
-
-
 Access Openai API
+
 To access the OpenAI interface, you typically need to use the OpenAI API from OpenAILinks to an external site. 
 
 Sign Up and Get API Key: First, sign up on the OpenAI platform and get an API key. 
 
 Install OpenAI Python Library:  pip install openai
 
- Code: 
+Code: 
 
 import openai
 
