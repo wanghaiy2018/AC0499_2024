@@ -8,6 +8,9 @@ Graph of Thoughts: Solving Elaborate Problems with Large Language Models  https:
 
 **Reasoning**
 
+LLM-based Multi-Agent Reinforcement Learning:
+Current and Future Directions  https://arxiv.org/pdf/2405.11106
+
 Teaching Large Language Models to Reason  with Reinforcement Learning https://arxiv.org/abs/2403.04642
 
 Symbolic Learning Enables Self-Evolving Agents https://arxiv.org/abs/2406.18532
