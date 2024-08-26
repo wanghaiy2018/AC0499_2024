@@ -66,5 +66,5 @@ DESIGN OF CHAIN-OF-THOUGHT IN MATH PROBLEM  SOLVING  https://arxiv.org/abs/2309.
 Graph Chain-of-Thought: Augmenting Large Language Models by
 Reasoning on Graphs  https://arxiv.org/abs/2404.07103
 
-[link(Chain-of-Thought (COT)Prompting
-To Improve Model Outcomes) ](https://medium.com/@thomasczerny/chain-of-thought-cot-prompting-9ee4967e927c#:~:text=Chain%20of%20Thought%20Prompting%20boosts,more%20accurate%20and%20reliable%20outcomes)
+[Chain-of-Thought (COT)Prompting
+To Improve Model Outcomes](https://medium.com/@thomasczerny/chain-of-thought-cot-prompting-9ee4967e927c#:~:text=Chain%20of%20Thought%20Prompting%20boosts,more%20accurate%20and%20reliable%20outcomes)
