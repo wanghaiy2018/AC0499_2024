@@ -33,6 +33,8 @@ AlphaMath Almost Zero: Process SupervisionWithout Process  https://arxiv.org/abs
 
 DESIGN OF CHAIN-OF-THOUGHT IN MATH PROBLEM  SOLVING  https://arxiv.org/abs/2309.11054
 
+Can Large Language Models Understand Symbolic Graphics Programs?  https://github.com/sgp-bench/sgp-bench
+
 **Reinforcement Learning**
 
 LLM-based Multi-Agent Reinforcement Learning: Current and Future Directions  https://arxiv.org/abs/2405.11106
