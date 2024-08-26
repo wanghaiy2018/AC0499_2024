@@ -52,7 +52,6 @@ Reasoning on Graphs  https://arxiv.org/abs/2404.07103
 To Improve Model Outcomes](https://medium.com/@thomasczerny/chain-of-thought-cot-prompting-9ee4967e927c#:~:text=Chain%20of%20Thought%20Prompting%20boosts,more%20accurate%20and%20reliable%20outcomes)
 
 **More LLM  Agents**
-https://lilianweng.github.io/posts/2023-06-23-agent/
 
 Knowledge Graph Structure as Prompt:Improving Small Language Models Capabilities  for Knowledge-based Causal Discovery https://arxiv.org/pdf/2407.18752
 
