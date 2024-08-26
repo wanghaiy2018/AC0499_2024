@@ -1,5 +1,5 @@
 Buffer of Thoughts: Thought-Augmented Reasoning  with Large Language Models
-https://arxiv.org/pdf/2406.04271
+[link Text](https://arxiv.org/pdf/2406.04271)
 
 Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents
 https://arxiv.org/pdf/2405.02957
