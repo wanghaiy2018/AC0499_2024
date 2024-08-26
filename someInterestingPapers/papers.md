@@ -2,6 +2,8 @@
 
 LLM Powered Agents https://lilianweng.github.io/posts/2023-06-23-agent/
 
+LLMs with Langchain:  https://www.pinecone.io/learn/series/langchain/langchain-agents/
+
 Knowledge Graph Structure as Prompt:Improving Small Language Models Capabilities  for Knowledge-based Causal Discovery https://arxiv.org/pdf/2407.18752
 
 Graph of Thoughts: Solving Elaborate Problems with Large Language Models  https://arxiv.org/abs/2308.09687
