@@ -36,6 +36,8 @@ DESIGN OF CHAIN-OF-THOUGHT IN MATH PROBLEM  SOLVING  https://arxiv.org/abs/2309.
 
 **Reinforcement Learning**
 
+LLM-based Multi-Agent Reinforcement Learning: Current and Future Directions  https://arxiv.org/abs/2405.11106
+
 TRUE KNOWLEDGE COMES FROM PRACTICE:
 ALIGNING LLMS WITH EMBODIED ENVIRONMENTS
 VIA REINFORCEMENT LEARNING  https://arxiv.org/abs/2401.14151
