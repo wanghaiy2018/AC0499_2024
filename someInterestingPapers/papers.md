@@ -27,7 +27,29 @@ Large Language Models (LLMs) as Agents for Augmented Democracy, https://arxiv.or
 **Reasoning**
 
 Teaching Large Language Models to Reason  with Reinforcement Learning https://arxiv.org/abs/2403.04642
+
 Symbolic Learning Enables Self-Evolving Agents https://arxiv.org/abs/2406.18532
+
+Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B: A Technical Report https://arxiv.org/abs/2406.07394
+
+Large Language Monkeys: Scaling Inference Compute  with Repeated Sampling  https://arxiv.org/abs/2407.21787
+
+DESIGN OF CHAIN-OF-THOUGHT IN MATH PROBLEM SOLVING  https://arxiv.org/abs/2309.11054
+
+Converging Paradigms: The Synergy of Symbolic and Connectionist AI in LLM-Empowered  https://arxiv.org/abs/2407.08516
+
+Mathematical Capabilities of ChatGPT  https://arxiv.org/abs/2301.13867
+
+Investigating the Effectiveness of ChatGPT in Mathematical Reasoning and Problem Solving: Evidence from the Vietnamese
+National High School Graduation Examination https://arxiv.org/abs/2306.06331
+
+C2P: Featuring Large Language Models with Causal Reasoning  https://arxiv.org/html/2407.18069v1
+
+AlphaMath Almost Zero: Process SupervisionWithout Process  https://arxiv.org/abs/2405.03553
+
+
+
+
 
 
 **Reinforcement Learning**
