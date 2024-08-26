@@ -1,6 +1,15 @@
 **LLM Powered Autonomous Agents**
 https://lilianweng.github.io/posts/2023-06-23-agent/
 
+Knowledge Graph Structure as Prompt:Improving Small Language Models Capabilities  for Knowledge-based Causal Discovery https://arxiv.org/pdf/2407.18752
+
+
+**Reasoning**
+Teaching Large Language Models to Reason  with Reinforcement Learning https://arxiv.org/abs/2403.04642
+
+
+
+
 
 
 Buffer of Thoughts: Thought-Augmented Reasoning  with Large Language Models https://arxiv.org/pdf/2406.04271
