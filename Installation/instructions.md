@@ -92,7 +92,7 @@ response = ollama.chat(model='llama3.1', messages=[ { 'role': 'user', 'content':
 
 **Access Openai API**
 
-See openai.ipynb
+See https://github.com/wanghaiy2018/AC0499_2024/blob/main/Installation/openai.ipynb
 
 #ASU Supercomputing Instructions
 
