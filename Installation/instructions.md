@@ -102,6 +102,7 @@ From shell, enter:  interactive
 module load mamba/latest
 
 copy from github: git clone https://github.com/pyg-team/pytorch_geometric.git 
+
                                  cd   
 
                                  pip install -e .
