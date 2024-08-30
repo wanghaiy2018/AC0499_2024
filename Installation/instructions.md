@@ -1,4 +1,4 @@
-#Install Jupyter Notebook
+**Install Jupyter Notebook**
 
 https://docs.anaconda.com/anaconda/install/windows/
 
@@ -15,7 +15,7 @@ To access env:    conda activate myenv,
 
 Now you can install packages to this evn:   pip install 
 
-Install LLama3.1 locally on your computer
+**Install LLama3.1 locally on your computer**
 
 Windows: 
 
@@ -69,7 +69,6 @@ ollama serve
 
 curl http://10.139.121.74:11434
 
- 
 At serve:  
 
 Request a jupyter session with a GPU.
@@ -94,7 +93,7 @@ response = ollama.chat(model='llama3.1', messages=[ { 'role': 'user', 'content':
 
 See https://github.com/wanghaiy2018/AC0499_2024/blob/main/Installation/openai.ipynb
 
-#ASU Supercomputing Instructions
+**ASU Supercomputing Instructions**
 
 https://asurc.atlassian.net/wiki/spaces/KESC/pages/1914667538/Managing+Python+Modules+Through+the+Mamba+Environment+Manager
 
@@ -102,7 +101,7 @@ From shell, enter:  interactive
 
 module load mamba/latest
 
-copy from github:   git clone https://github.com/pyg-team/pytorch_geometric.gitLinks to an external site.
+copy from github:   git clone https://github.com/pyg-team/pytorch_geometric.git 
                                  cd   
 
                                  pip install -e .
