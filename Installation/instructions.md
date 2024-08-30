@@ -19,11 +19,11 @@ Install LLama3.1 locally on your computer
 
 Windows: 
 
-1.Head to Ollama’s download pageLinks to an external site. to download the Ollama installation file.  Please refer the download pageLinks to an external site. for OS specific install instructions.  You can confirm the Ollama server status by hitting the local URL http://localhost:11434/Links to an external site., 
+1. Head to Ollama’s download pageLinks to an external site. to download the Ollama installation file.  Please refer the download pageLinks to an external site. for OS specific install instructions.  You can confirm the Ollama server status by hitting the local URL http://localhost:11434/Links to an external site., 
 
 2. Open a windows terminal (command-prompt) and execute the following Ollama command:   ollama run llama3.1.  Now you can have interactive conversations with LLama3.1,   To create and access env:   conda create --name myenv  conda activate myenv,   pip install  
 
-3.  You can call the llama31 in Python
+3. You can call the llama31 in Python
 
 from langchain_community.llms import Ollama
 
@@ -92,24 +92,7 @@ response = ollama.chat(model='llama3.1', messages=[ { 'role': 'user', 'content':
 
 **Access Openai API**
 
-To access the OpenAI interface, you typically need to use the OpenAI API from OpenAILinks to an external site. 
-
-Sign Up and Get API Key: First, sign up on the OpenAI platform and get an API key. 
-
-Install OpenAI Python Library:  pip install openai
-
-Code: 
-
-import openai
-
-openai.api_key = 'your-api-key-here'
-
-response = openai.Completion.create(
-  model="text-davinci-003",  
-  prompt="Translate the following English text to French: 'Hello, how are you?'",
-  max_tokens=60
-)
-
+See openai.ipynb
 
 #ASU Supercomputing Instructions
 
