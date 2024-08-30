@@ -1,2 +1,4 @@
-Instructions and documents for ACO 499,  Neural Networks and AI Agents Powered by Large Language Models (LLMs),  at ASU  
+Neural Networks and AI Agents Powered by Large Language Models (LLMs)
+
+Instructions and documents for ACO 499, Fall 2024 at ASU. 
 
