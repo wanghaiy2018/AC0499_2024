@@ -19,7 +19,7 @@ Now you can install packages to this evn:   pip install
 
 Windows: 
 
-1. Head to Ollama’s download pageLinks to an external site. to download the Ollama installation file.  Please refer the download pageLinks to an external site. for OS specific install instructions.  You can confirm the Ollama server status by hitting the local URL http://localhost:11434/Links to an external site., 
+1. Head to Ollama’s download pageLinks to an external site. to download the Ollama installation file.  Please refer the download pageLinks to an external site. for OS specific install instructions.  You can confirm the Ollama server status by hitting the local URL http://localhost:11434 
 
 2. Open a windows terminal (command-prompt) and execute the following Ollama command:   ollama run llama3.1.  Now you can have interactive conversations with LLama3.1,   To create and access env:   conda create --name myenv  conda activate myenv,   pip install  
 
@@ -101,7 +101,7 @@ From shell, enter:  interactive
 
 module load mamba/latest
 
-copy from github:   git clone https://github.com/pyg-team/pytorch_geometric.git 
+copy from github: git clone https://github.com/pyg-team/pytorch_geometric.git 
                                  cd   
 
                                  pip install -e .
