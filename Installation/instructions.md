@@ -107,6 +107,7 @@ copy from github: git clone https://github.com/pyg-team/pytorch_geometric.git
 
                                  pip install -e .
 
+mamba create --name <new_environment_name> --clone <environment_to_copy>
 This will create an environment called <new_environment_name> that is copied from <environment_to_copy>.
 
 mamba create -n  yourENVname
