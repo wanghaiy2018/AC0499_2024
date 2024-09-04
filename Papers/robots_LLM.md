@@ -4,9 +4,7 @@ As of 2024, here are some recent reference papers that involve LLMs, simulation 
 1. Transformers Meet Reinforcement Learning: A Pre-trained Language Model for Interactive Text-based Games
 Reference: Xie, X., Tang, Y., Zhang, Y., & Liu, W. (2024).
 
-2. Transformers Meet Reinforcement Learning: A Pre-trained Language Model for Interactive Text-based Games. Proceedings of the 2024 Annual Conference on Empirical Methods in Natural Language Processing (EMNLP 2024).
-
-Summary: This paper discusses the integration of pre-trained transformers with reinforcement learning for interactive text-based games. The approach enhances the ability of LLMs to perform in dynamic, text-driven environments, which can be applied to simulations where language understanding and interaction are crucial.
+2. Transformers Meet Reinforcement Learning: A Pre-trained Language Model for Interactive Text-based Games. Proceedings of the 2024 Annual Conference on Empirical Methods in Natural Language Processing (EMNLP 2024). Summary: This paper discusses the integration of pre-trained transformers with reinforcement learning for interactive text-based games. The approach enhances the ability of LLMs to perform in dynamic, text-driven environments, which can be applied to simulations where language understanding and interaction are crucial.
 
 3. Simulation-Guided Language Models for Embodied AI
 Reference: Gupta, A., Kumar, R., & Srivastava, S. (2024). Simulation-Guided Language Models for Embodied AI. Proceedings of the 2024 IEEE International Conference on Robotics and Automation (ICRA 2024).
