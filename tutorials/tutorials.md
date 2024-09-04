@@ -4,4 +4,6 @@ https://github.com/microsoft/generative-ai-for-beginners/blob/main/17-ai-agents/
 
 https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/resources/agents_101_guide.md
 
+https://www.promptingguide.ai/research/llm-agents
+
 https://medium.com/@rohanbalkondekar/understanding-llm-agents-a-guide-to-creating-your-own-9390f02f3ff9
