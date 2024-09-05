@@ -3,6 +3,8 @@
 
 # LLM-Agents for Simulation
 
+https://github.com/joonspk-research/generative_agents
+
 https://github.com/giammy677dev/LLM-Agents-for-Simulation
 
 https://arxiv.org/pdf/2312.11970
