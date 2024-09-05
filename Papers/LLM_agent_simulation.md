@@ -45,10 +45,6 @@ https://github.com/joonspk-research/generative_agents
 
 https://arxiv.org/abs/2405.02858 
 
-https://github.com/BlueLinkX/GA-MAS
-
 https://arxiv.org/abs/2403.15105 
-
-https://anonymous.4open.science/r/IDS-8D8E
 
 https://arxiv.org/abs/2307.14984
