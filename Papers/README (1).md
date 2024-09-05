@@ -1,28 +1,5 @@
 # LLM-Agents for Simulation
 
-## :house: Introduction
-
-In the realm of understanding complex systems, simulation serves as a fundamental tool for unraveling intricate dynamics. With the emergence of LLM-powered agents, we are witnessing a profound transformation in simulation methodologies.
-
-Our mission with this repository is to curate an extensive collection of resources that showcase the intersection of simulation and LLM-agents. From papers to repositories and beyond, we aim to provide a comprehensive hub for researchers, enthusiasts, and practitioners interested in leveraging LLM technology for simulating complex phenomena.
-
-## :star: Contributions
-
-We welcome contributions from the community to help us expand and enrich this repository further. Whether you have papers, repositories, or resources to share, we encourage you to submit pull requests or raise issues to help us keep this repository updated and relevant. Together, let's unlock new insights, push the boundaries of simulation technology, and pave the way for groundbreaking discoveries.
-
------
-
-- [Papers](#papers)
-  - [Healthcare](#healthcare)
-  - [Recommender Systems](#recommender-systems)
-  - [Social Dynamics](#social-dynamics)
-  - [Social Network Analysis](#social-network-analysis)
-- [Contributors](#contributors)
-
-## Papers
-
-> 🔥 for papers with >20 citations or repositories with >50 stars.\
-> 📖 for papers accepted by reputed conferences/journals.
 
 ### Healthcare
 
@@ -51,11 +28,3 @@ We welcome contributions from the community to help us expand and enrich this re
 * [Mar 2024] **"LLM-Driven Agents for Influencer Selection in Digital Advertising Campaigns"**, *X. Zhang et al.* [Paper](https://arxiv.org/abs/2403.15105) - [Code](https://anonymous.4open.science/r/IDS-8D8E)
 
 * 🔥 [Oct 2023] **"S3: Social-network Simulation System with Large Language Model-Empowered Agents"**, *C. Gao et al.* [Paper](https://arxiv.org/abs/2307.14984)
-
-## Contributors
-
-<a href="https://github.com/giammy677dev/LLM-Agents-Papers-for-Simulation/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=giammy677dev/LLM-Agents-Papers-for-Simulation" />
-</a>
-
-The repository is initially built and maintained by [Gian Marco Orlando](https://github.com/giammy677dev).
