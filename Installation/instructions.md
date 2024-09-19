@@ -15,6 +15,7 @@ To access env:    conda activate myenv,
 
 Now you can install packages to this evn:   pip install 
 
+
 **Install LLama3.1 locally on your computer**
 
 Windows: 
@@ -57,7 +58,7 @@ response = requests.post(url, headers=headers, data=json.dumps(payload))
 print(response.json())
 
  
-Unix: 
+**Unix:** 
 
 install ollama 
 
@@ -89,9 +90,11 @@ import ollama
 
 response = ollama.chat(model='llama3.1', messages=[ { 'role': 'user', 'content': 'Why is the sky blue?', }, ]) print(response['message']['content'])
 
+
 **Access Openai API**
 
 See https://github.com/wanghaiy2018/AC0499_2024/blob/main/Installation/openai.ipynb
+
 
 **ASU Supercomputing Instructions**
 
