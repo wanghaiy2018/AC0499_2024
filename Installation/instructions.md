@@ -65,11 +65,11 @@ module load ollama/0.1.38
 
 export OLLAMA_HOST='10.139.120.41:11434'
 
-ollama serve
+ollama server 
 
 curl http://10.139.121.74:11434
 
-At serve:  
+At server:  
 
 Request a jupyter session with a GPU.
 
@@ -77,7 +77,7 @@ Open a terminal tab on jupyter lab.
 
 Load the ollama-0.1.38 module.
 
-Run ollama serve.
+Run ollama server.
 
 Open a second terminal and download the llama3.1 model by running ollama pull llama3.1 .
 
