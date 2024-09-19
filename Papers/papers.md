@@ -61,6 +61,10 @@ Graph of Thoughts: Solving Elaborate Problems with Large Language Models  https:
 [Chain-of-Thought (COT)Prompting
 To Improve Model Outcomes](https://medium.com/@thomasczerny/chain-of-thought-cot-prompting-9ee4967e927c#:~:text=Chain%20of%20Thought%20Prompting%20boosts,more%20accurate%20and%20reliable%20outcomes)
 
+**Large Language Model for Graph Representation Learning (LLM4Graph) **
+
+https://github.com/SitaoLuan/LLM4Graph?tab=readme-ov-file
+
 **More LLM  Agents**
 
 Knowledge Graph Structure as Prompt:Improving Small Language Models Capabilities  for Knowledge-based Causal Discovery https://arxiv.org/pdf/2407.18752
