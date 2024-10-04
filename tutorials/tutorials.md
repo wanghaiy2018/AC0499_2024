@@ -4,7 +4,6 @@ https://github.com/rasbt/LLMs-from-scratch
 
 **LLM agent**
 
-https://artint.info/
 
 https://lilianweng.github.io/posts/2023-06-23-agent/
 
@@ -15,3 +14,7 @@ https://github.com/aishwaryanr/awesome-generative-ai-guide/blob/main/resources/a
 https://www.promptingguide.ai/research/llm-agents
 
 https://medium.com/@rohanbalkondekar/understanding-llm-agents-a-guide-to-creating-your-own-9390f02f3ff9
+
+**Artificial Intelligence: Foundations of Computational Agents**
+
+https://artint.info/
