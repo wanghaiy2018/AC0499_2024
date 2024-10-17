@@ -75,21 +75,21 @@ Graph of Thoughts: Solving Elaborate Problems with Large Language Models  https:
 
 Language Model Crossover: Variation through Few-Shot Prompting  https://arxiv.org/abs/2302.12170
 
-Buffer of Thoughts: Thought-Augmented Reasoning  with Large Language Models https://arxiv.org/pdf/2406.04271
+Buffer of Thoughts: Thought-Augmented Reasoning  with Large Language Models, https://arxiv.org/pdf/2406.04271
 
-Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents, https://arxiv.org/pdf/2405.02957
+Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents,https://arxiv.org/pdf/2405.02957
 
 Layout Generation Agents with Large Language Models, https://arxiv.org/pdf/2405.08037
 
-Adversarial Attacks on Reinforcement Learning Agents for Command and Control, https://arxiv.org/pdf/2405.01693 
+Adversarial Attacks on Reinforcement Learning Agents for Command and Control,https://arxiv.org/pdf/2405.01693 
 
-Algorithmic Decision-Making under Agents with Persistent Improvement, https://arxiv.org/pdf/2405.01807
+Algorithmic Decision-Making under Agents with Persistent Improvement,https://arxiv.org/pdf/2405.01807
 
-A Model-based Multi-Agent Personalized Short-Video Recommender System, https://arxiv.org/pdf/2405.01847
+A Model-based Multi-Agent Personalized Short-Video Recommender System,https://arxiv.org/pdf/2405.01847
 
 A Network Simulation of OTC Markets with Multiple Agents, https://arxiv.org/pdf/2405.02480
 
-Large Language Models (LLMs) as Agents for Augmented Democracy, https://arxiv.org/pdf/2405.03452
+Large Language Models (LLMs) as Agents for Augmented Democracy,https://arxiv.org/pdf/2405.03452
 
 Awesome LLM-Powered Agent,
 https://github.com/hyp1231/awesome-llm-powered-agent?tab=readme-ov-file
