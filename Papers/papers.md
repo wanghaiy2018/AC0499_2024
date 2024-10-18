@@ -91,6 +91,3 @@ A Network Simulation of OTC Markets with Multiple Agents, https://arxiv.org/pdf/
 
 Large Language Models (LLMs) as Agents for Augmented Democracy,https://arxiv.org/pdf/2405.03452
 
-Awesome LLM-Powered Agent,
-https://github.com/hyp1231/awesome-llm-powered-agent?tab=readme-ov-file
-
