@@ -18,3 +18,8 @@ A critique of pure learning and what artificial neural
 networks can learn from animal brains, https://www.nature.com/articles/s41467-019-11786-6
 
 How can artificial neural networks approximate the brain?  https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.970214/full
+
+Psychomatics -- A Multidisciplinary Framework for Understanding Artificial Minds, https://arxiv.org/abs/2407.16444
+
+Opportunities for neuromorphic computing
+algorithms and applications, https://www.nature.com/articles/s43588-021-00184-y
