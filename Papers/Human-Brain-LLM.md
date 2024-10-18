@@ -23,3 +23,5 @@ Psychomatics -- A Multidisciplinary Framework for Understanding Artificial Minds
 
 Opportunities for neuromorphic computing
 algorithms and applications, https://www.nature.com/articles/s43588-021-00184-y
+
+The Computational Brain, https://direct.mit.edu/books/monograph/3919/The-Computational-Brain
