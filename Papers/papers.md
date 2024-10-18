@@ -33,8 +33,6 @@ AlphaMath Almost Zero: Process SupervisionWithout Process  https://arxiv.org/abs
 
 Can Large Language Models Understand Symbolic Graphics Programs?  https://github.com/sgp-bench/sgp-bench
 
-Dissociating language and thought in large language models: a cognitive perspective, https://arxiv.org/pdf/2301.06627
-
 **Reinforcement Learning**
 
 LLM-based Multi-Agent Reinforcement Learning: Current and Future Directions  https://arxiv.org/abs/2405.11106
@@ -91,6 +89,3 @@ A Network Simulation of OTC Markets with Multiple Agents, https://arxiv.org/pdf/
 
 Large Language Models (LLMs) as Agents for Augmented Democracy,https://arxiv.org/pdf/2405.03452
 
-**Human Brains and LLM**
-
-The memory systems of the human brain and generative artificial intelligence, https://www.cell.com/action/showPdf?pii=S2405-8440%2824%2907996-9
