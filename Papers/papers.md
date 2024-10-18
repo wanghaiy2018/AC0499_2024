@@ -91,5 +91,9 @@ A Network Simulation of OTC Markets with Multiple Agents, https://arxiv.org/pdf/
 
 Large Language Models (LLMs) as Agents for Augmented Democracy,https://arxiv.org/pdf/2405.03452
 
+
+**More LLM  Agents**
+
 Dissociating language and thought in large language models: a cognitive perspective, https://arxiv.org/pdf/2301.06627
 
+The memory systems of the human brain and generative artificial intelligence, https://www.cell.com/action/showPdf?pii=S2405-8440%2824%2907996-9
