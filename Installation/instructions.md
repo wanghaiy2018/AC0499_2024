@@ -9,7 +9,7 @@ If you  want to create an environment or install a package to the environment, d
 
 Open a windows  Anaconda Prompt,  
 
-To create  env:   conda create  myenv   (you may also use Navigator to create a new environment)
+To create  env:   conda create -n myenv   (you may also use Navigator to create a new environment)
 
 To access env:    conda activate myenv, 
 
