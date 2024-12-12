@@ -9,3 +9,5 @@ https://arxiv.org/pdf/2404.12534v1
 https://arxiv.org/pdf/2312.04556
 
 https://arxiv.org/pdf/2301.13867
+
+https://www.mdpi.com/2227-7102/14/7/698
