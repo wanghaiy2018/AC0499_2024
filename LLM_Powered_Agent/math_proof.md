@@ -15,3 +15,5 @@ https://www.mdpi.com/2227-7102/14/7/698
 https://www.mdpi.com/2227-7102/14/7/698
 
 https://www.ijimai.org/journal/sites/default/files/2024-02/ijimai8_5_7.pdf
+
+https://link.springer.com/article/10.1007/s40751-024-00155-8
