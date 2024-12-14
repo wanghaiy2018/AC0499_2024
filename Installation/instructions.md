@@ -15,7 +15,7 @@ To access env:    conda activate myenv,
 
 Now you can install packages to this evn:   pip install 
 
-**Install LLama3.* locally on your computer**
+**Install Ollama**
 
 Windows: 
 
