@@ -7,7 +7,7 @@ Go back to Home, and look for Jupyter Notebook, you will see either install or l
 
 If you  want to create an environment or install a package to the environment, do the following: 
 
-Open a windows  Anaconda Prompt,  
+Open a windows  Anaconda Prompt,  To create and access env:   conda create --name myenv  conda activate myenv, pip install.
 
 To create  env:   conda create -n myenv   (you may also use Navigator to create a new environment)
 
@@ -16,15 +16,17 @@ To access env:    conda activate myenv,
 Now you can install packages to this evn:   pip install 
 
 
-**Install LLama3.1 locally on your computer**
+**Install LLama3.* locally on your computer**
 
 Windows: 
 
 1. Head to Ollama’s download pageLinks to an external site. to download the Ollama installation file.  Please refer the download pageLinks to an external site. for OS specific install instructions.  You can confirm the Ollama server status by hitting the local URL http://localhost:11434 
 
-2. Open a windows terminal (command-prompt) and execute the following Ollama command:   ollama run llama3.1.  Now you can have interactive conversations with LLama3.1,   To create and access env:   conda create --name myenv  conda activate myenv,   pip install  
+2. Open a windows terminal (command-prompt) and execute the following Ollama command:   ollama run llama3.1.  Now you can have interactive conversations with LLama3.1. 
 
-3. You can call the llama31 in Python
+3. See https://huggingface.co/docs/hub/en/ollama for run Hugg Face models with Ollama. For example: ollama run hf.co/bartowski/Llama-3.2-3B-Instruct-GGUF:latest. Use ollama list to see available models.  
+
+4. You can call the llama3* in Python
 
 from langchain_community.llms import Ollama
 
