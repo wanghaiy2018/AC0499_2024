@@ -4,15 +4,11 @@ https://docs.anaconda.com/anaconda/install/windows/
 
 https://github.com/wanghaiy2018/AC0499_2024/blob/main/Installation/StartAncondaNavagator.pdf
 
-Start Anaconda Navigator,   click the Environments panel at the left and click the env you want to work with (you could create a new one here). 
-Go back to Home, and look for Jupyter Notebook, you will see either install or launch.  Once you install it and you can launch Jupyter Notebook with this environment. 
+
+Start Anaconda Navigator,   click the Environments panel at the left and click the env you want to work with (you could create a new one here).  Go back to Home, and look for Jupyter Notebook, you will see either install or launch.  Once you install it and you can launch Jupyter Notebook with this environment. 
 
 If you  want to create an environment or install a package to the environment, do the following: 
 
-Open a windows  Anaconda Prompt,  To create and access env:   conda create --name myenv  conda activate myenv, pip install.
+Open a windows  Anaconda Prompt,  To create and access env:   conda create --name myenv  conda activate myenv, pip install. (you may also use Navigator to create a new environment). Now you can install packages to this evn: pip install 
 
-To create  env:   conda create -n myenv   (you may also use Navigator to create a new environment)
-
-To access env:    conda activate myenv, 
-
-Now you can install packages to this evn:   pip install 
+Once you create an env,  a new Jupter_Notebook will be created and you should start this Jupter NoteBook for this specific env. 
