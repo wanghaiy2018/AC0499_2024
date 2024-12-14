@@ -15,7 +15,6 @@ To access env:    conda activate myenv,
 
 Now you can install packages to this evn:   pip install 
 
-
 **Install LLama3.* locally on your computer**
 
 Windows: 
@@ -26,39 +25,7 @@ Windows:
 
 3. See https://huggingface.co/docs/hub/en/ollama for run Hugg Face models with Ollama. For example: ollama run hf.co/bartowski/Llama-3.2-3B-Instruct-GGUF:latest. Use ollama list to see available models.  
 
-4. You can call the llama3* in Python
-
-from langchain_community.llms import Ollama
-
-llm = Ollama(model="llama3.1")
-
-prompt = "Tell me a joke about llama"
-
-result = llm.invoke(prompt)
-
-print(result)
-
-4. You can requests from URL, which means  the llama 3.1 is a server and everyone can call it. 
-
-import requests
-
-import json
-
-url = "http://localhost:11434/api/generate"
-payload = {
-    "model": "llama3.1",
-    "prompt": "who is the president of USA",
-    "stream": False
-}
-
-headers = {
-    'Content-Type': 'application/json'
-}
-
-response = requests.post(url, headers=headers, data=json.dumps(payload))
-
-print(response.json())
-
+4. You can call the llama3* in Python  https://github.com/wanghaiy2018/AC0499_2024/blob/main/Installation/Ollama_sample12-14.ipynb
  
 **Unix:** 
 
@@ -85,12 +52,6 @@ Run ollama server.
 Open a second terminal and download the llama3.1 model by running ollama pull llama3.1 .
 
 Open a jupyter notebook and use the ollama-0.1.38 kernel.
-
-Run the python example code below
-
-import ollama
-
-response = ollama.chat(model='llama3.1', messages=[ { 'role': 'user', 'content': 'Why is the sky blue?', }, ]) print(response['message']['content'])
 
 
 **Access Openai API**
