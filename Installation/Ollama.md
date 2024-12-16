@@ -36,7 +36,3 @@ Open a second terminal and download the llama3.1 model by running ollama pull ll
 
 Open a jupyter notebook and use the ollama-0.1.38 kernel.
 
-
-**Access Openai API**
-
-See https://github.com/wanghaiy2018/AC0499_2024/blob/main/Installation/openai.ipynb
