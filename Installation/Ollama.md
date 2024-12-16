@@ -10,7 +10,7 @@ Windows:
 
 4. You can call the llama3* in Python  https://github.com/wanghaiy2018/AC0499_2024/blob/main/Installation/Ollama_sample12-14.ipynb
  
-**Unix:** 
+Unix: 
 
 install ollama 
 
