@@ -8,7 +8,7 @@ Windows:
 
 3. See https://huggingface.co/docs/hub/en/ollama for run Hugg Face models with Ollama. For example: ollama run hf.co/bartowski/Llama-3.2-3B-Instruct-GGUF:latest. Use ollama list to see available models.  
 
-4. You can call the llama3* in Python  https://github.com/wanghaiy2018/AC0499_2024/blob/main/Installation/Ollama_sample12-14.ipynb
+4. You can call the llama3* in Python  [https://github.com/wanghaiy2018/AC0499_2024/blob/main/Installation/Ollama_sample12-14.ipynb](https://github.com/wanghaiy2018/AC0499_2024/blob/main/Code/ai_agent/Ollama_sample12_15.ipynb)
  
 Unix: 
 
