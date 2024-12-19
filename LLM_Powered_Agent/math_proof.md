@@ -3,17 +3,20 @@ Procedural Knowledge in Pretraining Drives Reasoning in Large Language Models   
 
 https://aclanthology.org/2024.naacl-long.102/
 
-https://arxiv.org/pdf/2404.12534v1
+Towards Large Language Models as Copilots for
+Theorem Proving in Lean  https://arxiv.org/pdf/2404.12534v1
 
-https://arxiv.org/pdf/2312.04556
+Large Language Models for Mathematicians   https://arxiv.org/pdf/2312.04556 
 
-https://arxiv.org/pdf/2301.13867
+Mathematical Capabilities of ChatGPT  https://arxiv.org/pdf/2301.13867
 
-https://www.mdpi.com/2227-7102/14/7/698
+Mathematical Modelling Abilities of Artificial Intelligence Tools: The Case of ChatGPT  https://www.mdpi.com/2227-7102/14/7/698
 
-https://www.ijimai.org/journal/sites/default/files/2024-02/ijimai8_5_7.pdf
+Can Generative AI Solve Geometry Problems? Strengths
+and Weaknesses of LLMs for Geometric Reasoning in
+Spanish  https://www.ijimai.org/journal/sites/default/files/2024-02/ijimai8_5_7.pdf
 
-https://link.springer.com/article/10.1007/s40751-024-00155-8
+Pre-Service Teachers’ Approaches in Solving Mathematics Tasks with ChatGPT   https://link.springer.com/article/10.1007/s40751-024-00155-8
 
 Teaching Large Language Models to Reason with Reinforcement Learning https://arxiv.org/abs/2403.04642
 
