@@ -1,5 +1,7 @@
 Procedural Knowledge in Pretraining Drives Reasoning in Large Language Models   https://arxiv.org/pdf/2411.12580 
-  https://lauraruis.github.io/2024/11/10/if.html, https://aclanthology.org/2024.naacl-long.102/
+  https://lauraruis.github.io/2024/11/10/if.html
+  
+Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks  https://aclanthology.org/2024.naacl-long.102/
 
 Towards Large Language Models as Copilots for
 Theorem Proving in Lean  https://arxiv.org/pdf/2404.12534v1
