@@ -1,7 +1,5 @@
 Procedural Knowledge in Pretraining Drives Reasoning in Large Language Models   https://arxiv.org/pdf/2411.12580 
   https://lauraruis.github.io/2024/11/10/if.html
-  
-Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks  https://aclanthology.org/2024.naacl-long.102/
 
 Towards Large Language Models as Copilots for
 Theorem Proving in Lean  https://arxiv.org/pdf/2404.12534v1
@@ -31,3 +29,5 @@ Mathematical Capabilities of ChatGPT https://arxiv.org/abs/2301.13867
 Investigating the Effectiveness of ChatGPT in Mathematical Reasoning and Problem Solving: Evidence from the Vietnamese National High School Graduation Examination https://arxiv.org/abs/2306.06331
 
 Can Large Language Models Understand Symbolic Graphics Programs? https://github.com/sgp-bench/sgp-bench
+
+Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks  https://aclanthology.org/2024.naacl-long.102
