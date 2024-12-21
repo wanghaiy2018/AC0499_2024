@@ -31,3 +31,5 @@ Investigating the Effectiveness of ChatGPT in Mathematical Reasoning and Problem
 Can Large Language Models Understand Symbolic Graphics Programs? https://github.com/sgp-bench/sgp-bench
 
 Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks  https://aclanthology.org/2024.naacl-long.102
+
+Evaluating Language Models for Mathematics through Interactions  https://arxiv.org/pdf/2306.01694
