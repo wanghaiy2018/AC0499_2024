@@ -37,3 +37,6 @@ Evaluating Language Models for Mathematics through Interactions  https://arxiv.o
 Can Language Models Rival Mathematics Students? Evaluating
 Mathematical Reasoning through Textual Manipulation and Human
 Experiments  https://arxiv.org/pdf/2412.11908v1
+
+Graph Chain-of-Thought: Augmenting Large Language Models by
+Reasoning on Graphs  https://arxiv.org/pdf/2404.07103
