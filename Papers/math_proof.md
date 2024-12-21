@@ -33,3 +33,7 @@ Can Large Language Models Understand Symbolic Graphics Programs? https://github.
 Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks  https://aclanthology.org/2024.naacl-long.102
 
 Evaluating Language Models for Mathematics through Interactions  https://arxiv.org/pdf/2306.01694
+
+Can Language Models Rival Mathematics Students? Evaluating
+Mathematical Reasoning through Textual Manipulation and Human
+Experiments  https://arxiv.org/pdf/2412.11908v1
