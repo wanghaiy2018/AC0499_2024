@@ -41,5 +41,7 @@ Experiments  https://arxiv.org/pdf/2412.11908v1
 Graph Chain-of-Thought: Augmenting Large Language Models by
 Reasoning on Graphs  https://arxiv.org/pdf/2404.07103
 
+Graph of Thoughts: Solving Elaborate Problems with Large Language Models   https://arxiv.org/abs/2308.09687
+
 Beyond Examples: High-level Automated Reasoning Paradigm in In-Context
 Learning via MCTS   https://arxiv.org/pdf/2411.18478
