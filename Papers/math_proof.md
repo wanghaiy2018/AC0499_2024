@@ -45,3 +45,5 @@ Graph of Thoughts: Solving Elaborate Problems with Large Language Models   https
 
 Beyond Examples: High-level Automated Reasoning Paradigm in In-Context
 Learning via MCTS   https://arxiv.org/pdf/2411.18478
+
+Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions  https://github.com/AIDC-AI/Marco-o1
