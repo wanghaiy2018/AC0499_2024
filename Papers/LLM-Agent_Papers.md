@@ -65,7 +65,9 @@ https://github.com/SitaoLuan/LLM4Graph?tab=readme-ov-file
 
 https://www.unite.ai/supercharging-graph-neural-networks-with-large-language-models-the-ultimate-guide/
 
-**Finacials**
+**Finance**
+
+LLMs-in-Finance  https://github.com/hananedupouy/LLMs-in-Finance
 
 Fine-Tuning Large Language Models for Stock
 Return Prediction Using Newsflow https://arxiv.org/pdf/2407.18103
