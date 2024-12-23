@@ -46,4 +46,6 @@ Graph of Thoughts: Solving Elaborate Problems with Large Language Models   https
 Beyond Examples: High-level Automated Reasoning Paradigm in In-Context
 Learning via MCTS   https://arxiv.org/pdf/2411.18478
 
+OpenR: An Open Source Framework for Advanced Reasoning with Large Language Models   https://github.com/openreasoner/openr
+
 Marco-o1: Towards Open Reasoning Models for Open-Ended Solutions  https://github.com/AIDC-AI/Marco-o1
