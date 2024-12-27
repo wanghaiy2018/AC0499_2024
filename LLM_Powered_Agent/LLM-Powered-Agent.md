@@ -18,4 +18,6 @@ Awesome-Chinese-LLM  https://github.com/HqWu-HITCS/Awesome-Chinese-LLM
 
 LLMs-in-Finance  https://github.com/hananedupouy/LLMs-in-Finance
 
+AI-in-Health, https://github.com/AI-in-Health
+
 
