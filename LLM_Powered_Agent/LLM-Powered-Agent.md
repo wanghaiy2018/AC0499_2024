@@ -16,3 +16,6 @@ Awesome-LLM  https://github.com/Hannibal046/Awesome-LLM
 
 Awesome-Chinese-LLM  https://github.com/HqWu-HITCS/Awesome-Chinese-LLM
 
+LLMs-in-Finance  https://github.com/hananedupouy/LLMs-in-Finance
+
+
