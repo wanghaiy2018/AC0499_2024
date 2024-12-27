@@ -20,4 +20,6 @@ LLMs-in-Finance  https://github.com/hananedupouy/LLMs-in-Finance
 
 AI-in-Health, https://github.com/AI-in-Health
 
+LLM-for-Healthcare   https://github.com/KaiHe-better/LLM-for-Healthcare
+
 
