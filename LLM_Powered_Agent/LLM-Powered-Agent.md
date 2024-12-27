@@ -25,3 +25,5 @@ LLM-for-Healthcare   https://github.com/KaiHe-better/LLM-for-Healthcare
 LLM-and-Law  https://github.com/Jeryi-Sun/LLM-and-Law
 
 LegalAgentBench  https://github.com/CSHaitao/LegalAgentBench
+
+LLM-Agent-Paper-List  https://github.com/WooooDyy/LLM-Agent-Paper-List
