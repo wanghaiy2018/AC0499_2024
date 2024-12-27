@@ -14,3 +14,5 @@ Math Coder https://github.com/mathllm/MathCoder
 
 Awesome-LLM  https://github.com/Hannibal046/Awesome-LLM
 
+Awesome-Chinese-LLM  https://github.com/HqWu-HITCS/Awesome-Chinese-LLM
+
