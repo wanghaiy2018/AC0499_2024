@@ -27,3 +27,5 @@ LLM-and-Law  https://github.com/Jeryi-Sun/LLM-and-Law
 LegalAgentBench  https://github.com/CSHaitao/LegalAgentBench
 
 LLM-Agent-Paper-List  https://github.com/WooooDyy/LLM-Agent-Paper-List
+
+Yahoo-Finance-llm-agent https://github.com/ojasskapre/yahoo-finance-llm-agent
