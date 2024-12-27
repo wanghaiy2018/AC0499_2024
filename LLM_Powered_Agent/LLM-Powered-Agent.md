@@ -10,5 +10,7 @@ vector_stock_market_bot  https://github.com/SingularityMan/vector_stock_market_b
 
 Math LLM  https://github.com/atroyn/math-llm/tree/main
 
+Math Coder https://github.com/mathllm/MathCoder 
 
+Awesome-LLM  https://github.com/Hannibal046/Awesome-LLM
 
