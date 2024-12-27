@@ -8,4 +8,7 @@ https://github.com/Doriandarko/claude-engineer
 
 vector_stock_market_bot  https://github.com/SingularityMan/vector_stock_market_bot/tree/main
 
+Math LLM  https://github.com/atroyn/math-llm/tree/main
+
+
 
