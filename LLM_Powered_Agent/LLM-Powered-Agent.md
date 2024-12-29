@@ -29,3 +29,5 @@ LegalAgentBench  https://github.com/CSHaitao/LegalAgentBench
 LLM-Agent-Paper-List  https://github.com/WooooDyy/LLM-Agent-Paper-List
 
 Yahoo-Finance-llm-agent https://github.com/ojasskapre/yahoo-finance-llm-agent
+
+40 Agent Implementations https://github.com/NirDiamant/GenAI_Agents
