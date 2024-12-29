@@ -9,3 +9,4 @@ Start Anaconda Navigator,  click the Environments panel at the left and click th
 If you  want to create an environment or install a package to the environment with command prompt, do the following: Open a windows Anaconda Prompt, to create and access env:  conda create --name myenv, conda activate myenv. Now you can install packages to this evn: pip install, or pip install --upgrade  
 
 Once you create an env, a new Jupter_Notebook will be created and you should start this Jupter NoteBook for this specific env. 
+Note that you need to restart your terminal or command prompt and the Jupter Notebook to see the changes. 
